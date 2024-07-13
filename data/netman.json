@@ -1,0 +1,1 @@
+{"py/object": "linux_network.NetworkManager", "wpaconfig": "/etc/wpa_supplicant/wpa_supplicant.conf", "WifiSSID": "RapideEpervierIOT", "WifiKey": "Hzsc3qrpyVRPEZ4Uu5ctrErrh", "WifiSSID2": "", "WifiKey2": "", "APMode": -1, "APModeDev": 99, "APModeTime": 30, "APStopTime": -1, "WifiAPKey": "configrpi", "WifiAPChannel": 1, "WifiDevWatch": 1, "WifiDevNum": 1, "dhcpcd_inuse": true}
